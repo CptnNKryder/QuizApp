@@ -1,0 +1,54 @@
+[
+    {
+        "question": "noble prize is awarded for which of the following domains?",
+        "choices": ["literature", "pharma", "science", "all of the above"],
+        "answers": "all of the above"
+      },
+
+      {
+        "question": "Garampani santuary is located in which of the following places?",
+        "choices": ["Junagarh,Gujarat","Kohima,Nagaland","Diphu,Assam","Gangstok,Sikkim"],
+        "answers": "Diphu,Assam"
+      },
+      {
+        "question": "Entomology studies what?",
+        "choices": ["Human behaviour", "insects", "history", "rocks"],
+        "answers": "insects"
+      },
+      {
+        "question": "Who is the father of Geometry?",
+        "choices": ["Aristotle", "Euclid", "Pythagoras", "Kepler"],
+        "answers": "Euclid"
+      },
+      {
+        "question": "Indian player Jude Felix is popular for which sport?",
+        "choices": ["volleyball", "football", "hockey", "cricket"],
+        "answers": "hockey"
+      },
+      {
+        "question": "Who invented radium?",
+        "choices": ["Marie Curie", "Benjamin Franklin", "Albert Einstien", "Isac Newton"],
+        "answers": "Marie Curie"
+      },
+      {
+        "question": "What is the capital of France?",
+        "choices": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answers": "Paris"
+      },
+      {
+        "question": "When wad telephone invented?",
+        "choices": ["1870", "1880", "1850", "1990"],
+        "answers": "1870"
+      },
+      {
+        "question": "When is the Father's day celebrated?",
+        "choices": ["4 January", "10 January", "10 October", "16 June"],
+        "answers": "16 June"
+      },
+      {
+        "question": "Who was awarded with the best fielder award in the post match ceremony held after India vs Usa T20worlcup 2024 match?",
+        "choices": ["Virat Kohli", "M Siraj", "Shivam Dube", "Rinku Singh"],
+        "answers": "M Siraj"
+      }
+  ]
+  
