@@ -1,0 +1,94 @@
+/* src/components/Quiz.css */
+.quiz {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: aqua;
+  border: 4px solid brown;
+}
+
+.quiz h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: salmon;
+}
+
+.choices {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.choices button {
+  display: block;
+  margin: 10px 0;
+  padding: 15px;
+  width: 100%;
+  max-width: 300px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  transition: background-color 0.3s;
+}
+
+.choices button:hover {
+  background-color: #e0e0e0;
+}
+
+.feedback {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transition: opacity 500ms;
+}
+
+.fade-exit {
+  opacity: 1;
+}
+
+.fade-exit-active {
+  opacity: 0;
+  transition: opacity 500ms;
+}
+
+.quiz-completed {
+  text-align: center;
+  margin-top: 50px;
+  font-size: x-large;
+  background-color: aquamarine;
+  color: sienna;
+}
+
+@media (max-width: 600px) {
+  .quiz h2 {
+    font-size: 20px;
+  }
+
+  .choices button {
+    font-size: 14px;
+    padding: 12px;
+  }
+
+  .feedback {
+    font-size: 16px;
+  }
+}
+
+  
